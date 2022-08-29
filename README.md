@@ -1,2 +1,2 @@
 # CV-CSS
-Updating/ Beautifying the CV using CSS
+Updating the CV using CSS
